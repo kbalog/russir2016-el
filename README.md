@@ -8,8 +8,15 @@ Presentation slides: __to-be-added__
 
 Complete the missing parts in [tagme.py](nordlys/tagme.py). 
 
-  - First, implement a commonness-based baseline.
+  - First, implement a commonness-based baseline. [solution](nordlys/tagme_sol1.py)
   - Then, implement TAGME's voting approach.
+
+Output (result) file format: `docID score entityID mention page-id`
+
+Evaluation:
+`evaluator_annot.py <qrel_file> <result_file> [score_threshold]`
+
+  - If score_threshold is provided, the evaluation script will only consider annotations from the output file with scores above the given threshold.   
     
 
 ## Code

@@ -140,15 +140,17 @@ def parse_file(file_name, res=False):
 
 
 def main(args):
-    if len(args) < 3:
-        print "\tUsage: <qrel_file> <result_file> <score_threshold>"
+    if len(args) < 2:
+        print "\tUsage: <qrel_file> <result_file> [score_threshold]"
         exit(0)
+    print(args)
     print "parsing qrel ..."
     qrels, null_qrels = parse_file(args[0])  # here qrel does not contain null entities
     print "parsing results ..."
     results = parse_file(args[1], res=True)[0]
     print "evaluating ..."
-    evaluator = EvaluatorAnnot(qrels, results, float(args[2]))
+    score_th = float(args[2]) if len(args) >= 3 else 0
+    evaluator = EvaluatorAnnot(qrels, results, score_th)
     evaluator.eval(erd_eval_query)
 
 if __name__ == '__main__':
