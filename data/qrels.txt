@@ -1,0 +1,151 @@
+1	1	<wikipedia:Czechoslovakia>	czechoslovakia	5322
+1	1	<wikipedia:Film>	films	21555729
+1	1	<wikipedia:Stop_motion>	stop-motion animation	27036
+1	1	<wikipedia:The_Adventures_of_Mark_Twain_(1985_film)>	the adventures of mark twain	11484373
+1	1	<wikipedia:United_Kingdom>	uk	31717
+1	1	<wikipedia:2D_computer_graphics>	2-dimensional	35248
+1	1	<wikipedia:Stop_motion>	stop-motion	27036
+1	1	<wikipedia:The_Trap_Door>	the trap door	1604203
+1	1	<wikipedia:Cutout_animation>	cutout animation	745626
+1	1	<wikipedia:Chicken_Run>	chicken run	284525
+2	1	<wikipedia:3D_computer_graphics>	3d	10175073
+2	1	<wikipedia:Animation>	animations	593
+2	1	<wikipedia:Motion_capture>	motion capture	396968
+2	1	<wikipedia:Visual_effects>	visual	323862
+3	1	<wikipedia:International_Organization_for_Standardization>	international organization for standardization	14934
+3	1	<wikipedia:International_Organization_for_Standardization>	international organization for standardization (iso)	14934
+3	1	<wikipedia:International_Organization_for_Standardization>	iso	14934
+3	1	<wikipedia:International_Electrotechnical_Commission>	international electrotechnical commission (iec)	15144
+3	1	<wikipedia:United_States>	u.s.	3434750
+3	1	<wikipedia:International_Electrotechnical_Commission>	international electrotechnical commission	15144
+3	1	<wikipedia:American_National_Standards_Institute>	ansi	659
+3	1	<wikipedia:International_Electrotechnical_Commission>	iec	15144
+3	1	<wikipedia:United_States>	u.s. national	3434750
+4	1	<wikipedia:Institute_of_Nuclear_Materials_Management>	institute of nuclear materials management	21481649
+4	1	<wikipedia:Open_standard>	open standards	227018
+5	1	<wikipedia:MPLA>	mpla	347166
+5	1	<wikipedia:Angola>	angola	701
+5	1	<wikipedia:Single-party_state>	one-party	102459
+5	1	<wikipedia:Leninism>	marxist-leninist	18687
+5	1	<wikipedia:Legislature>	parliament	44421
+5	1	<wikipedia:Multi-party_system>	multiparty democracy	233475
+5	1	<wikipedia:Jos%C3%A9_Eduardo_dos_Santos>	dos santos	392284
+5	1	<wikipedia:Head_of_state>	president	13456
+6	1	<wikipedia:Executive_(government)>	executive power	10263
+6	1	<wikipedia:Leninism>	marxist-leninist	18687
+6	1	<wikipedia:Legislature>	parliament	44421
+6	1	<wikipedia:Legislature>	legislative power	44421
+6	1	<wikipedia:Angola>	angola	701
+6	1	<wikipedia:Multi-party_system>	multi-party system	233475
+6	1	<wikipedia:Government>	government	12229
+6	1	<wikipedia:Single-party_state>	one-party	102459
+7	1	<wikipedia:Biennial_plant>	biennials	3417
+7	1	<wikipedia:Perennial_plant>	perennials	733199
+7	1	<wikipedia:Cereal>	grains	6700
+7	1	<wikipedia:Carrot>	carrot	5985739
+7	1	<wikipedia:Hardiness_(plants)>	cold hardy	1135529
+7	1	<wikipedia:Annual_plant>	annuals	777
+7	1	<wikipedia:Celery>	celery	6535
+7	1	<wikipedia:Parsley>	parsley	23206
+8	1	<wikipedia:Sweet_potato>	sweet potato	51628
+8	1	<wikipedia:Annual_plant>	annuals	777
+8	1	<wikipedia:Petunia>	petunia	261210
+8	1	<wikipedia:Bell_pepper>	bell pepper	71940
+8	1	<wikipedia:Impatiens>	impatiens	471385
+8	1	<wikipedia:Perennial_plant>	perennials	733199
+8	1	<wikipedia:Antirrhinum>	snapdragon	260893
+8	1	<wikipedia:Pelargonium>	pelargonium	341017
+8	1	<wikipedia:Begonia>	begonia	44338
+8	1	<wikipedia:Tomato>	tomato	9940234
+8	1	<wikipedia:Hardiness_(plants)>	tender	1135529
+8	1	<wikipedia:Coleus>	coleus	73322
+9	1	<wikipedia:Bad_Godesberg>	bad godesberg	665288
+9	1	<wikipedia:Die_Toten_Hosen>	die toten hosen	345300
+9	1	<wikipedia:Ludwig_van_Beethoven>	beethoven	17914
+9	1	<wikipedia:Symphony_No._9_(Beethoven)>	beethoven's ninth symphony	3436
+9	1	<wikipedia:Symphony_No._9_(Beethoven)>	ninth symphony	3436
+9	1	<wikipedia:English_language>	german	8569916
+10	1	<wikipedia:Petronas>	petronas	1123978
+10	1	<wikipedia:Malaysia>	malaysia	3607937
+11	1	<wikipedia:Error_detection_and_correction>	error correction	10375
+11	1	<wikipedia:Newton_OS>	newton os	1052290
+11	1	<wikipedia:Macintosh>	system	19006979
+11	1	<wikipedia:Mode_(computer_interface)>	modeless	2311336
+11	1	<wikipedia:Handwriting_recognition>	handwriting recognition	203619
+11	1	<wikipedia:In_situ>	in situ	379978
+12	1	<wikipedia:Toilets_in_Japan>	toilet	1049187
+12	1	<wikipedia:Nanotechnology>	nanotechnology	21488
+12	1	<wikipedia:Urinalysis>	urinalysis	568003
+13	1	<wikipedia:Entertainment>	entertainment	9262
+13	1	<wikipedia:Recreation>	recreation	25381
+13	1	<wikipedia:Standardization>	standardization	27065
+13	1	<wikipedia:Centralisation>	centralization	323090
+13	1	<wikipedia:Mass_media>	mass media	19641
+13	1	<wikipedia:Weapon_of_mass_destruction>	weapons of mass destruction	53136
+13	1	<wikipedia:Music_genre>	style	12653094
+13	1	<wikipedia:Corporation>	combine	7485
+14	1	<wikipedia:8_BC>	8 bc	51194
+14	1	<wikipedia:45_BC>	45 bc	51378
+14	1	<wikipedia:Julian_calendar>	julian calendar	15651
+14	1	<wikipedia:Greek_language>	modern	11887
+14	1	<wikipedia:Augustus>	augustus	1273
+15	1	<wikipedia:August_23>	august 23	1628
+15	1	<wikipedia:Onyx>	sardonyx	304011
+15	1	<wikipedia:Gladiolus>	gladiolus	1034172
+15	1	<wikipedia:Birthstones>	birthstone	17891889
+15	1	<wikipedia:Peridot>	peridot	45162
+15	1	<wikipedia:August_1>	first	1254
+16	1	<wikipedia:White_River_(Indiana)>	white river	427269
+16	1	<wikipedia:International_Union_for_Conservation_of_Nature>	iucn	101884
+16	1	<wikipedia:Kentucky>	kentucky	16846
+16	1	<wikipedia:Indiana>	indiana	21883857
+17	1	<wikipedia:Bedford,_Indiana>	bedford, indiana	112441
+17	1	<wikipedia:International_Union_for_Conservation_of_Nature>	iucn	101884
+17	1	<wikipedia:White_River_(Indiana)>	white river	427269
+18	1	<wikipedia:Venezuela>	venezuela	32374
+18	1	<wikipedia:United_Kingdom>	the united kingdom	31717
+18	1	<wikipedia:Russia>	russia	25391
+18	1	<wikipedia:Slovakia>	slovakia	26830
+18	1	<wikipedia:Germany>	germany	11867
+18	1	<wikipedia:France>	france	5843419
+18	1	<wikipedia:Wales>	wales	69894
+18	1	<wikipedia:Chile>	chile	5489
+18	1	<wikipedia:Netherlands>	the netherlands	21148
+18	1	<wikipedia:Greece>	greece	12108
+18	1	<wikipedia:Poland>	poland	22936
+18	1	<wikipedia:Canada>	canada	5042916
+18	1	<wikipedia:Vatican_City>	vatican city	32408
+18	1	<wikipedia:Netherlands>	netherlands	21148
+18	1	<wikipedia:Lebanon>	lebanon	17771
+18	1	<wikipedia:Cyprus>	cyprus	5593
+18	1	<wikipedia:Italy>	italy	14532
+18	1	<wikipedia:Uruguay>	uruguay	31843
+18	1	<wikipedia:United_Kingdom>	united kingdom	31717
+18	1	<wikipedia:Belgium>	belgium	3343
+18	1	<wikipedia:Lithuania>	lithuania	17675
+18	1	<wikipedia:Switzerland>	switzerland	26748
+19	1	<wikipedia:Belgium>	belgium	3343
+19	1	<wikipedia:Belarus>	belarus	3457
+19	1	<wikipedia:Austria>	austria	576
+19	1	<wikipedia:Chad>	chad	5488
+19	1	<wikipedia:Chile>	chile	5489
+19	1	<wikipedia:Andorra>	andorra	600
+19	1	<wikipedia:Holy_See>	diplomatic relations	13393
+19	1	<wikipedia:Brazil>	brazil	3383
+19	1	<wikipedia:Albania>	albania	738
+19	1	<wikipedia:Canada>	canada	5042916
+19	1	<wikipedia:Benin>	benin	3459
+19	1	<wikipedia:Armenia>	armenia	10918072
+19	1	<wikipedia:Australia>	australia	4689264
+19	1	<wikipedia:Bulgaria>	bulgaria	3415
+19	1	<wikipedia:Brazil>	countries	3383
+20	1	<wikipedia:Architectural_technologist>	architectural technologist	2437377
+20	1	<wikipedia:Architectural_engineering>	architectural engineering	19278728
+20	1	<wikipedia:Architecture>	architecture	21296224
+20	1	<wikipedia:Construction_engineering>	construction engineering	50705
+20	1	<wikipedia:Finland>	finland	10577
+20	1	<wikipedia:Building_officials>	building officials	8066154
+20	1	<wikipedia:Architectural_designer>	architectural designer	1989819
+20	1	<wikipedia:Denmark>	denmark	76972
+20	1	<wikipedia:Alvar_Aalto_Medal>	alvar aalto medal	8858360
+20	1	<wikipedia:Architectural_drawing>	architectural drawing	21482414
