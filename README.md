@@ -8,10 +8,15 @@ Presentation slides: __to-be-added__
 
 Complete the missing parts in [tagme.py](nordlys/tagme.py). 
 
+  - First, implement a commonness-based baseline.
+  - Then, implement TAGME's voting approach.
+    
 
-## Code files
+## Code
 
-See them under the [nordlys](nordlys/) directory. 
+See the code files under the [nordlys](nordlys/) directory.
+
+Python v2.7 is required.
 
 
 ## Data files
