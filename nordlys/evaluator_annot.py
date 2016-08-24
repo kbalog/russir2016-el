@@ -12,10 +12,9 @@ from collections import defaultdict
 
 
 class EvaluatorAnnot(object):
-    def __init__(self, qrels, results, score_th, null_qrels=None):
+    def __init__(self, qrels, results, score_th):
         self.qrels_dict = self.__group_by_queries(qrels)
         self.results_dict = self.__group_by_queries(results, res=True, score_th=score_th)
-        self.null_qrels = self.__group_by_queries(null_qrels) if null_qrels else None
 
     @staticmethod
     def __group_by_queries(file_lines, res=False, score_th=None):
@@ -33,34 +32,6 @@ class EvaluatorAnnot(object):
                 grouped_inters[cols[0]].add((cols[3].lower(), cols[2].lower()))
         return grouped_inters
 
-    def rm_nulls_from_res(self):
-        """
-        Removes mentions that not linked to an entity in the qrel.
-        There are some entities in the qrel with "*NONE*" as id. We remove the related mentions from the result file.
-        Null entities are generated due to the inconsistency between TAGME Wikipedia dump (2009) and our dump (2010).
-        """
-        print "Removing mentions with null entities ..."
-        new_results_dict = defaultdict(set)
-        for qid in self.results_dict:
-            # easy case: the query does not have any null entity.
-            if qid not in set(self.null_qrels.keys()):
-                new_results_dict[qid] = self.results_dict[qid]
-                continue
-
-            qrel_null_mentions = [item[0] for item in self.null_qrels[qid]]
-            # check null mentions with results mentions
-            for men, en in self.results_dict[qid]:
-                is_null = False
-                for qrel_null_men in qrel_null_mentions:
-                    # results mention does not match null qrel mention
-                    if mention_match(qrel_null_men, men):
-                        is_null = True
-                        break
-
-                if not is_null:
-                    new_results_dict[qid].add((men, en))
-        self.results_dict = new_results_dict
-
     def eval(self, eval_query_func):
         """
         Evaluates all queries and calculates total precision, recall and F1 (macro averaging).
@@ -68,7 +39,6 @@ class EvaluatorAnnot(object):
         :param eval_query_func: A function that takes qrel and results for a query and returns evaluation metrics
         :return  Total precision, recall, and F1 for all queries
         """
-        self.rm_nulls_from_res()
         queries_eval = {}
         total_prec, total_rec, total_f = 0, 0, 0
         for qid in sorted(self.qrels_dict):
@@ -170,15 +140,15 @@ def parse_file(file_name, res=False):
 
 
 def main(args):
-    if len(args) < 2:
-        print "\tUsage: <qrel_file> <result_file>"
+    if len(args) < 3:
+        print "\tUsage: <qrel_file> <result_file> <score_threshold>"
         exit(0)
     print "parsing qrel ..."
     qrels, null_qrels = parse_file(args[0])  # here qrel does not contain null entities
     print "parsing results ..."
     results = parse_file(args[1], res=True)[0]
     print "evaluating ..."
-    evaluator = EvaluatorAnnot(qrels, results, float(args[2]), null_qrels=null_qrels)
+    evaluator = EvaluatorAnnot(qrels, results, float(args[2]))
     evaluator.eval(erd_eval_query)
 
 if __name__ == '__main__':
