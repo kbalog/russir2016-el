@@ -14,7 +14,8 @@ from collections import defaultdict
 class EvaluatorAnnot(object):
     def __init__(self, qrels, results, score_th):
         self.qrels_dict = self.__group_by_queries(qrels)
-        self.results_dict = self.__group_by_queries(results, res=True, score_th=score_th)
+        self.results_dict = self.__group_by_queries(results, res=True,
+                                                    score_th=score_th)
 
     @staticmethod
     def __group_by_queries(file_lines, res=False, score_th=None):
@@ -42,7 +43,8 @@ class EvaluatorAnnot(object):
         queries_eval = {}
         total_prec, total_rec, total_f = 0, 0, 0
         for qid in sorted(self.qrels_dict):
-            queries_eval[qid] = eval_query_func(self.qrels_dict[qid], self.results_dict.get(qid, {}))
+            queries_eval[qid] = eval_query_func(self.qrels_dict[qid],
+                                                self.results_dict.get(qid, {}))
 
             total_prec += queries_eval[qid]['prec']
             total_rec += queries_eval[qid]['rec']
@@ -53,10 +55,11 @@ class EvaluatorAnnot(object):
         total_f = 2 * total_prec * total_rec / (total_prec + total_rec)
 
         log = "\n----------------" + "\nEvaluation results:\n" + \
-              "Prec: " + str(round(total_prec, 4)) + "\n" +\
+              "Prec: " + str(round(total_prec, 4)) + "\n" + \
               "Rec:  " + str(round(total_rec, 4)) + "\n" + \
               "F1:   " + str(round(total_f, 4)) + "\n" + \
-              "all:  " + str(round(total_prec, 4)) + ", " + str(round(total_rec, 4)) + ", " + str(round(total_f, 4))
+              "all:  " + str(round(total_prec, 4)) + ", " + str(
+            round(total_rec, 4)) + ", " + str(round(total_f, 4))
         print log
         metrics = {'prec': total_prec, 'rec': total_rec, 'f': total_f}
         return metrics
@@ -83,11 +86,12 @@ def erd_eval_query(query_qrels, query_results):
             fn += 1
     # Iterate over results to calculate FP
     for res_item in query_results:
-        if not find_item(res_item, query_qrels):  # Finds the result in the qrels
+        if not find_item(res_item,
+                         query_qrels):  # Finds the result in the qrels
             fp += 1
 
-    prec = tp / (tp+fp) if tp+fp != 0 else 0
-    rec = tp / (tp+fn) if tp+fn != 0 else 0
+    prec = tp / (tp + fp) if tp + fp != 0 else 0
+    rec = tp / (tp + fn) if tp + fn != 0 else 0
     f = (2 * prec * rec) / (prec + rec) if prec + rec != 0 else 0
     metrics = {'prec': prec, 'rec': rec, 'f': f}
     return metrics
@@ -104,7 +108,8 @@ def find_item(item_to_find, items_list):
     is_found = False
 
     for item in items_list:
-        if (item[1] == item_to_find[1]) and mention_match(item[0], item_to_find[0]):
+        if (item[1] == item_to_find[1]) and mention_match(item[0],
+                                                          item_to_find[0]):
             is_found = True
     return is_found
 
@@ -145,7 +150,8 @@ def main(args):
         exit(0)
     print(args)
     print "parsing qrel ..."
-    qrels, null_qrels = parse_file(args[0])  # here qrel does not contain null entities
+    qrels, null_qrels = parse_file(
+        args[0])  # here qrel does not contain null entities
     print "parsing results ..."
     results = parse_file(args[1], res=True)[0]
     print "evaluating ..."
@@ -153,5 +159,7 @@ def main(args):
     evaluator = EvaluatorAnnot(qrels, results, score_th)
     evaluator.eval(erd_eval_query)
 
+
+
 if __name__ == '__main__':
-    main(sys.argv[1:])
+    main(('../data/qrels.txt', '../data/output_cmn_vote.txt'))
