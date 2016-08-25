@@ -1,0 +1,256 @@
+1	0.994001713796	<wikipedia:Mark_Twain>	mark twain	page-id
+1	0.666666666667	<wikipedia:2_dimensional>	2 dimensional	page-id
+1	0.151515151515	<wikipedia:stop_motion>	stop motion animation	page-id
+1	0.958333333333	<wikipedia:stop_motion>	stop motion	page-id
+1	0.884062927497	<wikipedia:Czechoslovakia>	czechoslovakia	page-id
+1	0.205882352941	<wikipedia:adventures>	adventures	page-id
+1	0.925	<wikipedia:cutout_animation>	cutout animation	page-id
+1	0.128871128871	<wikipedia:film_producer>	produced	page-id
+1	0.75	<wikipedia:trap_door>	trap door	page-id
+1	0.524611610793	<wikipedia:United_Kingdom>	uk	page-id
+1	0.791821561338	<wikipedia:films>	films	page-id
+1	0.151260504202	<wikipedia:Dog_type>	type	page-id
+1	0.973333333333	<wikipedia:Chicken_Run>	chicken run	page-id
+2	0.389721627409	<wikipedia:category_(mathematics)>	category	page-id
+2	0.0436893203883	<wikipedia:Motion_capture>	motion capture	page-id
+2	0.460076045627	<wikipedia:name>	name	page-id
+2	0.08	<wikipedia:Computer_animation>	animations	page-id
+2	0.386617100372	<wikipedia:visual>	visual	page-id
+2	0.205508474576	<wikipedia:autumn>	fall	page-id
+2	0.666666666667	<wikipedia:suspension_of_disbelief>	believable	page-id
+2	0.170967741935	<wikipedia:dynamics_(music)>	dynamics	page-id
+2	0.733879222108	<wikipedia:3D_computer_graphics>	3d	page-id
+2	0.108695652174	<wikipedia:wikt:technique>	techniques	page-id
+3	0.932989690722	<wikipedia:international_organization>	international organization	page-id
+3	0.869230769231	<wikipedia:standardization>	standardization	page-id
+3	0.1875	<wikipedia:National_Committee>	national committee	page-id
+3	0.848101265823	<wikipedia:ANSI>	ansi	page-id
+3	0.468390804598	<wikipedia:computer_program>	program	page-id
+3	0.453731343284	<wikipedia:ISO>	iso	page-id
+3	0.984615384615	<wikipedia:International_Electrotechnical_Commission>	international electrotechnical commission	page-id
+3	0.946360153257	<wikipedia:International_Electrotechnical_Commission>	iec	page-id
+4	0.826923076923	<wikipedia:open_standards>	open standards	page-id
+4	0.047619047619	<wikipedia:web_portal>	portals	page-id
+4	0.643835616438	<wikipedia:documents>	documents	page-id
+4	0.441558441558	<wikipedia:institute>	institute	page-id
+4	0.15761589404	<wikipedia:nuclear_weapon>	nuclear	page-id
+4	0.573839662447	<wikipedia:official>	official	page-id
+4	1.0	<wikipedia:nuclear_materials>	nuclear materials	page-id
+4	0.676056338028	<wikipedia:web_site>	web site	page-id
+4	0.896749521989	<wikipedia:interest>	interest	page-id
+4	0.67734282325	<wikipedia:online>	online	page-id
+4	0.874249499666	<wikipedia:technology>	technology	page-id
+4	0.8	<wikipedia:materials_management>	materials management	page-id
+5	0.363175675676	<wikipedia:Santos_Futebol_Clube>	santos	page-id
+5	0.182341269841	<wikipedia:parliament>	parliament	page-id
+5	0.936714751047	<wikipedia:Angola>	angola	page-id
+5	0.0212765957447	<wikipedia:2005_American_League_Division_Series>	first round	page-id
+5	0.921831637373	<wikipedia:democracy>	democracy	page-id
+5	0.0118343195266	<wikipedia:Vladimir_Lenin>	leninist	page-id
+5	0.25	<wikipedia:Single-party_state>	one party	page-id
+5	0.727272727273	<wikipedia:system>	system	page-id
+5	1.0	<wikipedia:multiparty_democracy>	multiparty democracy	page-id
+5	0.0918367346939	<wikipedia:Philippine_general_election,_1992>	1992 elections	page-id
+5	0.5	<wikipedia:Jos%C3%A9_Eduardo_dos_Santos>	dos santos	page-id
+5	0.636883802817	<wikipedia:Marxist>	marxist	page-id
+5	0.33240575101	<wikipedia:President_of_the_United_States>	president	page-id
+5	0.883097542815	<wikipedia:DOS>	dos	page-id
+5	0.262711864407	<wikipedia:formal>	formal	page-id
+5	0.2	<wikipedia:Marxism-Leninism>	marxist leninist	page-id
+5	0.89156626506	<wikipedia:MPLA>	mpla	page-id
+5	0.0758017492711	<wikipedia:World_War_I>	first	page-id
+6	0.182341269841	<wikipedia:parliament>	parliament	page-id
+6	0.936714751047	<wikipedia:Angola>	angola	page-id
+6	0.575810522229	<wikipedia:government>	government	page-id
+6	0.0118343195266	<wikipedia:Vladimir_Lenin>	leninist	page-id
+6	0.25	<wikipedia:Single-party_state>	one party	page-id
+6	0.25	<wikipedia:vesting>	vested	page-id
+6	0.727272727273	<wikipedia:system>	system	page-id
+6	0.703225806452	<wikipedia:Legislative_power>	legislative power	page-id
+6	0.320422535211	<wikipedia:Marxism>	marxist	page-id
+6	0.2	<wikipedia:Marxism-Leninism>	marxist leninist	page-id
+6	0.047619047619	<wikipedia:Party_system>	party system	page-id
+6	0.680911680912	<wikipedia:Executive_power>	executive power	page-id
+7	0.25	<wikipedia:biennial_plant>	biennials	page-id
+7	0.938636363636	<wikipedia:climate>	climate	page-id
+7	0.212598425197	<wikipedia:annual_plant>	annuals	page-id
+7	0.242290748899	<wikipedia:grains>	grains	page-id
+7	0.949458483755	<wikipedia:parsley>	parsley	page-id
+7	0.272727272727	<wikipedia:perennial_plant>	perennials	page-id
+7	0.956310679612	<wikipedia:celery>	celery	page-id
+7	0.100917431193	<wikipedia:Hardiness_(plants)>	hardy	page-id
+7	0.739130434783	<wikipedia:convenience>	convenience	page-id
+7	0.9325	<wikipedia:carrot>	carrot	page-id
+7	0.5	<wikipedia:climate>	local climate	page-id
+7	0.5	<wikipedia:hardiness_(plants)>	cold hardy	page-id
+7	0.664285714286	<wikipedia:gardens>	gardens	page-id
+8	0.933403805497	<wikipedia:tomato>	tomato	page-id
+8	0.430555555556	<wikipedia:ornamental_plant>	ornamental	page-id
+8	0.957894736842	<wikipedia:bell_pepper>	bell pepper	page-id
+8	0.737447065941	<wikipedia:leaf>	leaves	page-id
+8	0.30303030303	<wikipedia:impatiens>	impatiens	page-id
+8	0.666666666667	<wikipedia:coleus>	coleus	page-id
+8	0.357142857143	<wikipedia:snapdragon>	snapdragon	page-id
+8	0.152647975078	<wikipedia:Ship's_tender>	tender	page-id
+8	0.212598425197	<wikipedia:annual_plant>	annuals	page-id
+8	0.890804597701	<wikipedia:wax>	wax	page-id
+8	0.630136986301	<wikipedia:begonia>	begonia	page-id
+8	0.96	<wikipedia:sweet_potato>	sweet potato	page-id
+8	0.678571428571	<wikipedia:petunia>	petunia	page-id
+8	0.272727272727	<wikipedia:perennial_plant>	perennials	page-id
+8	0.850746268657	<wikipedia:Pelargonium>	pelargonium	page-id
+9	0.942417985777	<wikipedia:punk_rock>	punk rock	page-id
+9	0.514161220044	<wikipedia:Ludwig_van_Beethoven>	beethoven	page-id
+9	0.691823899371	<wikipedia:Symphony_No._9_(Beethoven)>	ninth symphony	page-id
+9	0.765523868743	<wikipedia:Germany>	german	page-id
+9	0.768421052632	<wikipedia:orchestral>	orchestral	page-id
+9	0.040404040404	<wikipedia:film_score>	musical score	page-id
+9	1.0	<wikipedia:Die_Toten_Hosen>	die toten hosen	page-id
+9	0.0797970479705	<wikipedia:Rock_Band_(video_game)>	rock band	page-id
+9	0.161290322581	<wikipedia:clips>	clips	page-id
+9	0.2	<wikipedia:Punk_rock>	punk rock band	page-id
+9	0.981132075472	<wikipedia:Bad_Godesberg>	bad godesberg	page-id
+9	0.021897810219	<wikipedia:Alpine_skiing_at_the_2006_Winter_Olympics_-_Men's_combined>	combined	page-id
+9	0.609756097561	<wikipedia:melody>	melodies	page-id
+9	1.0	<wikipedia:German_punk>	german punk	page-id
+9	0.325	<wikipedia:Dirty_(album)>	dirty	page-id
+10	0.1875	<wikipedia:visible>	visible	page-id
+10	0.363636363636	<wikipedia:Setting_(fiction)>	settings	page-id
+10	0.449438202247	<wikipedia:Chinatown>	chinatown	page-id
+10	0.806282722513	<wikipedia:museums>	museums	page-id
+10	0.970297029703	<wikipedia:Malaysia>	malaysia	page-id
+10	0.916167664671	<wikipedia:Petronas>	petronas	page-id
+10	1.0	<wikipedia:walking_tour>	walking tour	page-id
+10	0.803152246814	<wikipedia:San_Francisco>	san francisco	page-id
+10	0.684745762712	<wikipedia:interactive>	interactive	page-id
+11	0.106666666667	<wikipedia:Error_detection_and_correction>	error correction	page-id
+11	0.671641791045	<wikipedia:unique>	unique	page-id
+11	0.576923076923	<wikipedia:assistant>	assistant	page-id
+11	0.857142857143	<wikipedia:modeless>	modeless	page-id
+11	0.727272727273	<wikipedia:system>	system	page-id
+11	0.439024390244	<wikipedia:feature_film>	feature	page-id
+11	0.12	<wikipedia:vital>	vital	page-id
+11	0.941176470588	<wikipedia:Newton_OS>	newton os	page-id
+11	0.171428571429	<wikipedia:device>	device	page-id
+11	0.924242424242	<wikipedia:handwriting_recognition>	handwriting recognition	page-id
+11	0.38202247191	<wikipedia:intelligent>	intelligent	page-id
+11	0.6	<wikipedia:Situ>	situ	page-id
+12	0.941002949853	<wikipedia:toilet>	toilet	page-id
+12	0.1	<wikipedia:instant_film>	instant	page-id
+12	0.6875	<wikipedia:aging>	aging	page-id
+12	0.545454545455	<wikipedia:clerk_(position)>	clerk	page-id
+12	1.0	<wikipedia:self_diagnosis>	self diagnosis	page-id
+12	0.885714285714	<wikipedia:urinalysis>	urinalysis	page-id
+12	0.208151910982	<wikipedia:internet>	internet	page-id
+12	1.0	<wikipedia:medical_technology>	medical technologies	page-id
+12	0.880697050938	<wikipedia:nanotechnology>	nanotechnology	page-id
+12	0.157894736842	<wikipedia:therapy>	therapies	page-id
+12	0.445205479452	<wikipedia:society>	societies	page-id
+13	0.911764705882	<wikipedia:recreation>	recreation	page-id
+13	0.869230769231	<wikipedia:standardization>	standardization	page-id
+13	0.903775883069	<wikipedia:entertainment>	entertainment	page-id
+13	0.4	<wikipedia:Liquidation>	wind up	page-id
+13	0.188197767145	<wikipedia:architectural_style>	style	page-id
+13	0.745519713262	<wikipedia:weapons>	weapons	page-id
+13	0.7421875	<wikipedia:synchronization>	synchronization	page-id
+13	0.159420289855	<wikipedia:combine_harvester>	combine	page-id
+13	0.938530734633	<wikipedia:mass_media>	mass media	page-id
+13	0.2	<wikipedia:weapons_of_mass_destruction>	mass destruction	page-id
+13	0.747104247104	<wikipedia:concentration>	concentration	page-id
+13	0.0238095238095	<wikipedia:Centralised_government>	centralization	page-id
+13	0.720379146919	<wikipedia:wind>	wind	page-id
+13	0.0231213872832	<wikipedia:habitat_destruction>	destruction	page-id
+14	0.846853146853	<wikipedia:Julian_calendar>	julian calendar	page-id
+14	1.0	<wikipedia:8_BC>	8 bc	page-id
+14	0.0619266055046	<wikipedia:Modernism>	modern	page-id
+14	0.00266311584554	<wikipedia:Days_of_our_Lives>	days	page-id
+14	0.903286978508	<wikipedia:Augustus>	augustus	page-id
+14	0.718670076726	<wikipedia:length>	length	page-id
+14	0.779761904762	<wikipedia:honor>	honor	page-id
+14	1.0	<wikipedia:45_BC>	45 bc	page-id
+15	0.2	<wikipedia:Romania_during_World_War_II%23The_royal_coup>	august 23	page-id
+15	0.5	<wikipedia:gladiolus>	gladiolus	page-id
+15	0.21922317314	<wikipedia:August>	august	page-id
+15	0.333333333333	<wikipedia:birthday>	birth flower	page-id
+15	0.139240506329	<wikipedia:cry>	cry	page-id
+15	0.595375722543	<wikipedia:symbols>	symbols	page-id
+15	0.95	<wikipedia:Philippine_Revolution>	philippine revolution	page-id
+15	0.0588235294118	<wikipedia:Birthday%23Birthstones>	birthstone	page-id
+15	0.0526315789474	<wikipedia:onyx>	sardonyx	page-id
+15	0.0909090909091	<wikipedia:Peridot,_Arizona>	peridot	page-id
+15	0.163636363636	<wikipedia:commemoration>	commemoration	page-id
+15	0.0758017492711	<wikipedia:World_War_I>	first	page-id
+16	0.257790368272	<wikipedia:White_River_(Indiana)>	white river	page-id
+16	0.931746031746	<wikipedia:Kentucky>	kentucky	page-id
+16	0.979457057072	<wikipedia:United_States>	united states	page-id
+16	0.777716492002	<wikipedia:IUCN>	iucn	page-id
+16	0.244444444444	<wikipedia:List_(computing)>	lists	page-id
+16	0.962962962963	<wikipedia:threatened_species>	threatened species	page-id
+16	0.953199512033	<wikipedia:Indiana>	indiana	page-id
+16	0.75	<wikipedia:Southern_Indiana>	southern indiana	page-id
+16	0.785714285714	<wikipedia:caves>	caves	page-id
+16	0.852693018955	<wikipedia:species>	species	page-id
+16	0.737885462555	<wikipedia:Vulnerable_species>	vulnerable	page-id
+16	0.0994764397906	<wikipedia:Conditions_races>	listed	page-id
+17	0.472972972973	<wikipedia:Bedford>	bedford	page-id
+17	0.257790368272	<wikipedia:White_River_(Indiana)>	white river	page-id
+17	0.03125	<wikipedia:North>	northern range	page-id
+17	0.233313987232	<wikipedia:west>	west	page-id
+17	0.946909543827	<wikipedia:fish>	fish	page-id
+17	0.0444444444444	<wikipedia:U.S._State_Department_list_of_Foreign_Terrorist_Organizations>	lists	page-id
+17	0.852693018955	<wikipedia:species>	species	page-id
+17	0.777716492002	<wikipedia:IUCN>	iucn	page-id
+17	0.737885462555	<wikipedia:Vulnerable_species>	vulnerable	page-id
+17	0.953199512033	<wikipedia:Indiana>	indiana	page-id
+17	0.317757009346	<wikipedia:east>	east	page-id
+17	0.117647058824	<wikipedia:boundary_delimitation>	delimits	page-id
+17	0.227203065134	<wikipedia:Southern_United_States>	south	page-id
+18	0.968873219836	<wikipedia:Canada>	canada	page-id
+18	0.924829831311	<wikipedia:Netherlands>	netherlands	page-id
+18	0.954508529651	<wikipedia:Italy>	italy	page-id
+18	0.845993953137	<wikipedia:Uruguay>	uruguay	page-id
+18	0.898681355366	<wikipedia:Lebanon>	lebanon	page-id
+18	0.936173838943	<wikipedia:Poland>	poland	page-id
+18	0.932142140133	<wikipedia:Greece>	greece	page-id
+18	0.936062145205	<wikipedia:Lithuania>	lithuania	page-id
+18	0.938289690533	<wikipedia:Cyprus>	cyprus	page-id
+18	0.973412943669	<wikipedia:France>	france	page-id
+18	0.978303795617	<wikipedia:United_Kingdom>	united kingdom	page-id
+18	0.942550086241	<wikipedia:Belgium>	belgium	page-id
+18	0.970091142377	<wikipedia:Germany>	germany	page-id
+18	0.937917161927	<wikipedia:Chile>	chile	page-id
+18	0.967883211679	<wikipedia:Vatican_City>	vatican city	page-id
+18	0.956691187217	<wikipedia:Switzerland>	switzerland	page-id
+18	0.816353532681	<wikipedia:Wales>	wales	page-id
+18	0.94769469198	<wikipedia:Slovakia>	slovakia	page-id
+18	0.973122529644	<wikipedia:Venezuela>	venezuela	page-id
+18	0.964418401696	<wikipedia:Russia>	russia	page-id
+19	0.975764229015	<wikipedia:Brazil>	brazil	page-id
+19	0.968873219836	<wikipedia:Canada>	canada	page-id
+19	0.945957814709	<wikipedia:Australia>	australia	page-id
+19	0.931952662722	<wikipedia:Albania>	albania	page-id
+19	0.937977909941	<wikipedia:Armenia>	armenia	page-id
+19	0.955495978552	<wikipedia:Chad>	chad	page-id
+19	0.404977375566	<wikipedia:countries>	countries	page-id
+19	0.00956175298805	<wikipedia:nation>	people	page-id
+19	0.85761589404	<wikipedia:Andorra>	andorra	page-id
+19	0.93786888939	<wikipedia:Austria>	austria	page-id
+19	0.956817774592	<wikipedia:Belarus>	belarus	page-id
+19	0.937917161927	<wikipedia:Chile>	chile	page-id
+19	0.942550086241	<wikipedia:Belgium>	belgium	page-id
+19	0.736301369863	<wikipedia:diplomatic_relations>	diplomatic relations	page-id
+19	0.947141316073	<wikipedia:Benin>	benin	page-id
+19	0.930800942285	<wikipedia:Bulgaria>	bulgaria	page-id
+20	0.0588235294118	<wikipedia:Architectural_drawing>	architectural drawing	page-id
+20	1.0	<wikipedia:architectural_technologist>	architectural technologist	page-id
+20	0.460076045627	<wikipedia:name>	name	page-id
+20	0.2	<wikipedia:architecture>	architectural designer	page-id
+20	0.912209638753	<wikipedia:Denmark>	denmark	page-id
+20	0.941415785191	<wikipedia:Finland>	finland	page-id
+20	0.9921875	<wikipedia:Alvar_Aalto>	alvar aalto	page-id
+20	1.0	<wikipedia:building_officials>	building officials	page-id
+20	0.25	<wikipedia:Construction_engineering>	construction engineering	page-id
+20	0.0285714285714	<wikipedia:ARIA_Music_Awards>	awards	page-id
+20	0.161290322581	<wikipedia:Architectural_engineering>	architectural engineering	page-id
+20	1.0	<wikipedia:Carlsberg_Architecture_Prize>	carlsberg architecture prize	page-id
+20	1.0	<wikipedia:Alvar_Aalto_Medal>	alvar aalto medal	page-id

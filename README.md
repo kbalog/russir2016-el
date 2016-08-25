@@ -8,8 +8,11 @@ Presentation slides: [http://bit.ly/russir2016-el](http://bit.ly/russir2016-el)
 
   - Complete the missing parts in [el_cmn.py](nordlys/el_cmn.py) to implement a simple commonness baseline.
     * I.e., link each mention to the entity with the highest commonness score.
-    * Sample solution: [el_commonness.py](nordlys/el_cmn_sol.py)
+    * Sample solution: [el_cmn_sol.py](nordlys/el_cmn_sol.py)
   - Implement TAGME's voting approach for disambiguation by completing [el_tagme.py](nordlys/el_tagme.py). 
+    * This builds on the previous exercise and already includes commonness computation.
+    * We note that the original TAGME approach includes additional pruning steps, which are disregarded here (those would make a big difference in performance though). 
+    * Sample solution: [el_tagme_sol.py](nordlys/el_tagme_sol.py)
   - Optionally, you can implement any other disambiguation approach (including novel ideas of your own).
   - The input documents are found in [data/snippets.txt](data/snippets.txt); the first column is the docID
   - The results (one annotation per line) need to be written in a file using the following format: `docID score entityID mention page-id`
@@ -43,13 +46,16 @@ Python v2.7 is required.
 
 ## Evaluation results
 
-| Method | Prec | Recall | F1 |
-| :--- | ---: | ---: | ---: | 
-| Commonness, 0 threshold | 0.3565 | 0.6025 | 0.4480 | 
-| Commonness, 0.7 threshold | 0.4533 | 0.4675 | 0.4603 | 
-| Commonness, 0.9 threshold | 0.6000 | 0.3532 | 0.4446 | 
+| Method | Score threshold | Prec | Recall | F1 |
+| :--- | :--- | ---: | ---: | ---: | 
+| Commonness | 0.5  | 0.4407 | 0.5629 | 0.4944 | 
+| Commonness | 0.7 | 0.4533 | 0.4675 | 0.4603 | 
+| Commonness | 0.9 | 0.6000 | 0.3532 | 0.4446 | 
+| TAGME | 0.5  | 0.4634 | 0.4929 | 0.4777 | 
+| TAGME | 0.7  | 0.4763 | 0.4233 | 0.4483 | 
+| TAGME | 0.9  | 0.5857 | 0.3357 | 0.4268 | 
 
 
 ## Credits
 
-This exercise was created from the [TAGME reproducibility code](https://github.com/hasibi/TAGME_Reproducibility) developed by [Faegheh Hasibi](http://hasibi.com/). 
+This exercise was created based on the [TAGME reproducibility code](https://github.com/hasibi/TAGME_Reproducibility) developed by [Faegheh Hasibi](http://hasibi.com/). 
